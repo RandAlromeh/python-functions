@@ -8,3 +8,9 @@ elif grade >= 60:
     print("Pass")
 else:
     print("Try again")
+
+for n in range(5):
+    print(n)
+ni = 5
+while ni < 5:
+    print(ni)
